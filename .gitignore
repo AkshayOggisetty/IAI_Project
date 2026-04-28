@@ -1,0 +1,27 @@
+# Datasets (too large for GitHub)
+*.csv
+*.tif
+
+# Extracted notebook text
+out.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
